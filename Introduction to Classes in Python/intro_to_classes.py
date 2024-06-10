@@ -4,7 +4,7 @@ This file contains the source code for the tutorial video on my YouTube channel,
 Introduction to Classes. This video is available at:
 https://youtu.be/0OM8OMDJ5yg
 
-Author: Miguel Guthridge
+Author: Maddy Guthridge
 """
 
 class Pet:
